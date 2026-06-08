@@ -11,42 +11,43 @@
 <line x1="72" y1="251.2" x2="832" y2="251.2" stroke="#e5e7eb" stroke-width="1"/>
 <text x="64" y="255.2" text-anchor="end" font-size="11" fill="#9ca3af">1633</text>
 <line x1="72" y1="198.4" x2="832" y2="198.4" stroke="#e5e7eb" stroke-width="1"/>
-<text x="64" y="202.4" text-anchor="end" font-size="11" fill="#9ca3af">1692</text>
+<text x="64" y="202.4" text-anchor="end" font-size="11" fill="#9ca3af">1693</text>
 <line x1="72" y1="145.6" x2="832" y2="145.6" stroke="#e5e7eb" stroke-width="1"/>
 <text x="64" y="149.6" text-anchor="end" font-size="11" fill="#9ca3af">1752</text>
 <line x1="72" y1="92.8" x2="832" y2="92.8" stroke="#e5e7eb" stroke-width="1"/>
-<text x="64" y="96.8" text-anchor="end" font-size="11" fill="#9ca3af">1811</text>
+<text x="64" y="96.8" text-anchor="end" font-size="11" fill="#9ca3af">1812</text>
 <line x1="72" y1="40.0" x2="832" y2="40.0" stroke="#e5e7eb" stroke-width="1"/>
-<text x="64" y="44.0" text-anchor="end" font-size="11" fill="#9ca3af">1871</text>
+<text x="64" y="44.0" text-anchor="end" font-size="11" fill="#9ca3af">1872</text>
 
-  <polygon points="72.0,304 72.0,278.5 105.0,196.0 138.1,161.4 171.1,155.1 204.2,164.0 237.2,136.5 270.3,148.0 303.3,109.0 336.3,93.9 369.4,111.7 402.4,85.1 435.5,105.5 468.5,124.1 501.6,105.5 534.6,84.2 567.7,121.4 600.7,113.5 633.7,94.8 666.8,98.4 699.8,83.3 732.9,91.3 765.9,95.7 799.0,65.5 832.0,96.6 832.0,304" fill="url(#areaGrad)"/>
-  <polyline points="72.0,278.5 105.0,196.0 138.1,161.4 171.1,155.1 204.2,164.0 237.2,136.5 270.3,148.0 303.3,109.0 336.3,93.9 369.4,111.7 402.4,85.1 435.5,105.5 468.5,124.1 501.6,105.5 534.6,84.2 567.7,121.4 600.7,113.5 633.7,94.8 666.8,98.4 699.8,83.3 732.9,91.3 765.9,95.7 799.0,65.5 832.0,96.6" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="799.0" cy="65.5" r="5" fill="#10b981" stroke="white" stroke-width="2"/>
-<text x="799.0" y="55.5" text-anchor="middle" font-size="11" font-weight="600" fill="#10b981">1842</text>
+  <polygon points="72.0,304 72.0,278.5 102.4,196.3 132.8,161.8 163.2,155.7 193.6,164.5 224.0,137.1 254.4,148.6 284.8,109.7 315.2,94.7 345.6,112.4 376.0,85.9 406.4,106.2 436.8,124.7 467.2,106.2 497.6,85.0 528.0,122.1 558.4,114.1 588.8,95.6 619.2,99.1 649.6,84.1 680.0,92.1 710.4,96.5 740.8,65.5 771.2,97.4 801.6,108.0 832.0,106.2 832.0,304" fill="url(#areaGrad)"/>
+  <polyline points="72.0,278.5 102.4,196.3 132.8,161.8 163.2,155.7 193.6,164.5 224.0,137.1 254.4,148.6 284.8,109.7 315.2,94.7 345.6,112.4 376.0,85.9 406.4,106.2 436.8,124.7 467.2,106.2 497.6,85.0 528.0,122.1 558.4,114.1 588.8,95.6 619.2,99.1 649.6,84.1 680.0,92.1 710.4,96.5 740.8,65.5 771.2,97.4 801.6,108.0 832.0,106.2" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="740.8" cy="65.5" r="5" fill="#10b981" stroke="white" stroke-width="2"/>
+<text x="740.8" y="55.5" text-anchor="middle" font-size="11" font-weight="600" fill="#10b981">1843</text>
 <circle cx="72.0" cy="278.5" r="5" fill="#f59e0b" stroke="white" stroke-width="2"/>
 <text x="72.0" y="268.5" text-anchor="start" font-size="11" font-weight="600" fill="#f59e0b">1602</text>
-<circle cx="832.0" cy="96.6" r="5" fill="#6366f1" stroke="white" stroke-width="2"/>
-<text x="832.0" y="86.6" text-anchor="end" font-size="11" font-weight="600" fill="#6366f1">1807</text>
+<circle cx="832.0" cy="106.2" r="5" fill="#6366f1" stroke="white" stroke-width="2"/>
+<text x="832.0" y="96.2" text-anchor="end" font-size="11" font-weight="600" fill="#6366f1">1797</text>
 
   <text x="72.0" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,72.0,350)">WC470</text>
-<text x="138.1" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,138.1,350)">WC474</text>
-<text x="204.2" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,204.2,350)">WC476</text>
-<text x="270.3" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,270.3,350)">WC479</text>
-<text x="336.3" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,336.3,350)">WC481</text>
-<text x="402.4" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,402.4,350)">WC484</text>
-<text x="468.5" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,468.5,350)">WC486</text>
-<text x="534.6" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,534.6,350)">WC492</text>
-<text x="600.7" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,600.7,350)">WC494</text>
-<text x="666.8" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,666.8,350)">WC496</text>
-<text x="732.9" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,732.9,350)">WC498</text>
-<text x="799.0" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,799.0,350)">WC500</text>
+<text x="132.8" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,132.8,350)">WC474</text>
+<text x="193.6" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,193.6,350)">WC476</text>
+<text x="254.4" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,254.4,350)">WC479</text>
+<text x="315.2" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,315.2,350)">WC481</text>
+<text x="376.0" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,376.0,350)">WC484</text>
+<text x="436.8" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,436.8,350)">WC486</text>
+<text x="497.6" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,497.6,350)">WC492</text>
+<text x="558.4" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,558.4,350)">WC494</text>
+<text x="619.2" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,619.2,350)">WC496</text>
+<text x="680.0" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,680.0,350)">WC498</text>
+<text x="740.8" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,740.8,350)">WC500</text>
+<text x="801.6" y="350" text-anchor="middle" font-size="10" fill="#9ca3af" transform="rotate(-30,801.6,350)">WC502</text>
 
   
-    <text x="72" y="22" font-size="12" fill="#6b7280">Rating: <tspan font-weight="600" fill="#6366f1">1807</tspan></text>
-    <text x="202" y="22" font-size="12" fill="#6b7280">Rank: <tspan font-weight="600" fill="#374151">#64667</tspan></text>
-    <text x="332" y="22" font-size="12" fill="#6b7280">Top <tspan font-weight="600" fill="#374151">7.6%</tspan></text>
-    <text x="442" y="22" font-size="12" fill="#6b7280">Contests: <tspan font-weight="600" fill="#374151">25</tspan></text>
+    <text x="72" y="22" font-size="12" fill="#6b7280">Rating: <tspan font-weight="600" fill="#6366f1">1797</tspan></text>
+    <text x="202" y="22" font-size="12" fill="#6b7280">Rank: <tspan font-weight="600" fill="#374151">#68580</tspan></text>
+    <text x="332" y="22" font-size="12" fill="#6b7280">Top <tspan font-weight="600" fill="#374151">8.0%</tspan></text>
+    <text x="442" y="22" font-size="12" fill="#6b7280">Contests: <tspan font-weight="600" fill="#374151">27</tspan></text>
     
     
-  <text x="832" y="356" text-anchor="end" font-size="10" fill="#d1d5db">Updated 2026-05-18 · leetcode.com/ZhouKan</text>
+  <text x="832" y="356" text-anchor="end" font-size="10" fill="#d1d5db">Updated 2026-06-08 · leetcode.com/ZhouKan</text>
 </svg>
